@@ -1,0 +1,6 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Local scratch
+_to_delete/
