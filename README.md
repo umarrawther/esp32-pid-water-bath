@@ -31,7 +31,7 @@ The goal is to model the bath with an energy balance, fit the model to step-test
 ## Progress
 - [x] Sensor reading and data logging
 - [x] Non-blocking timing (`millis()`)
-- [ ] Slow PWM heater output
+- [x] Slow PWM heater output
 - [ ] Power wiring and first step test
 - [ ] Model fitting
 - [ ] On/off, P, PI/PID control and comparison
